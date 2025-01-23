@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
 <p align="center">
-  <img align="right" width="30%" src="https://github.com/user-attachments/assets/b6fe04b9-8178-4c45-bddb-5b7b067f6a74" alt="About Me" />
+  <img align="right" width="30%" src="https://github.com/user-attachments/assets/1c1d44c4-109b-454c-abf2-899b65671b1" alt="About Me" />
    Welcome to my GitHub profile! I am a software engineer specializing in both backend and frontend development. I work with languages such as Python, Java, JavaScript, CSS, HTML, and more. I am a dynamic and creative person, passionate about sharing my projects. I hope to collaborate on solutions for various projects and learn new technologies. Let's connect and explore opportunities together!
   <br /><br />
  
