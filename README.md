@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
 <p align="center">
-  <img align="right" width="40%" src="https://github.com/user-attachments/assets/f1846cf6-2988-42e7-b8b3-41828a86239a" alt="About Me" />
+  <img align="right" width="30%" src="https://github.com/user-attachments/assets/b6fe04b9-8178-4c45-bddb-5b7b067f6a74" alt="About Me" />
    Welcome to my GitHub profile! I'm Amira - a programming enthusiast, content creator, and undergrad in Computer Science and Communication Engineering. I'm passionate about sharing my tech journey and refining my skills as a video editor at KIIT Robotics Society. I love exploring various tech trends and constantly seek innovative solutions. 
   <br /><br />
   I bring creativity, storytelling, and a thirst for innovation to the table. Let's connect and explore opportunities together!
